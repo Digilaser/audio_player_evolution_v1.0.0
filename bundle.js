@@ -1,7 +1,7 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/logo.svg":
+/***/ "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVDSutw8VZgWtXXOmQeibQC8Ox8N0OsSKTBKc1IgujD-kp6wRkSqvdtE_-3h8yRUob5VdohD-HTrGmBx0dijls-9RI6iviaj-O-e33IYgEJUgRmi8ntUlsRzhYQmbHqbObMYZPTMlorjnspbGLkwnmfqV3fanGghsnyyUZbcMTKzh6HMWgH_pG3aECw/s1200/pngwing.com.png":
 /*!**********************!*\
   !*** ./src/logo.svg ***!
   \**********************/

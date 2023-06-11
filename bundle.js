@@ -64,7 +64,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "C:\\MULTIMEDIA\\Proyectos\\audio_player_evolution_v1.0.0\\src\\App.js";
+var _jsxFileName = "https://cdn.jsdelivr.net/gh/Digilaser/audio_player_evolution_v1.0.0@main/src/App.js";
 
 
 
@@ -154,7 +154,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "C:\\MULTIMEDIA\\Proyectos\\audio_player_evolution_v1.0.0\\src\\components\\Player1.js";
+var _jsxFileName = "https://cdn.jsdelivr.net/gh/Digilaser/audio_player_evolution_v1.0.0@main/src/components/Player1.js";
 
 
 ////Play List////
@@ -295,7 +295,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "C:\\MULTIMEDIA\\Proyectos\\audio_player_evolution_v1.0.0\\src\\index.js";
+var _jsxFileName = "https://cdn.jsdelivr.net/gh/Digilaser/audio_player_evolution_v1.0.0@main/src/index.js";
 
 
 
